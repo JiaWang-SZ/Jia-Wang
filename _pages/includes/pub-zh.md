@@ -12,9 +12,9 @@
 
 Yichen Luo, Peiyu Zhu, Dongxiao Hu, *Jia Wang*, Tailin Wu, Dapeng Lan, Yu Liu, Zhibo Pang &#x2709;
 
-[Paper](https://openreview.net/pdf?id=Fisw2kc7EY) 
+[论文](https://openreview.net/pdf?id=Fisw2kc7EY) 
 
--To address "gradient pathology" in PINNs caused by conflicting gradients between PDE residuals and boundary constraints, this paper proposes Constraint-Aligned loss with Manifold Lifting (CAML). By reformulating zeroth-order terms into aligned constraints and introducing a delay factor to bypass high-curvature regions, CAML effectively mitigates gradient conflicts. Experiments demonstrate that CAML significantly enhances numerical stability and optimization efficiency, particularly for complex PDEs with composite boundary conditions.
+-针对物理信息神经网络（PINNs）中 PDE 残差与边界约束梯度冲突导致的“梯度病态”问题，本文提出了基于流形提升的约束对齐损失（CAML）。该方法通过将零阶项重构为对齐约束并引入延迟因子，有效缓解了梯度冲突并引导优化器跳过高曲率区域。实验证明，CAML 在处理复合边界条件的复杂 PDE 问题时，显著提升了数值稳定性和收敛效率。
 </div>
 </div>
 
