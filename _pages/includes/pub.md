@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/publication/ICML-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pu-Bench: A Unified Benchmark for Rigorous and Reproducible PU-Learning**
+**Mitigating Gradient Pathology in PINNs through Aligned Constraint**
 
 Yichen Luo, Peiyu Zhu, Dongxiao Hu, *Jia Wang*, Tailin Wu, Dapeng Lan, Yu Liu, Zhibo Pang &#x2709;
 
