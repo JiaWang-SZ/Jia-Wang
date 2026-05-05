@@ -1,6 +1,7 @@
 <span class='anchor' id='-news'></span>
 
 # 🔥 新闻动态
+- *2026.05*: &nbsp;🎉🎉 一篇关于缓解 PINN 中梯度病理的论文被 ICML 2026 接收，祝贺罗翼晨。
 - *2026.02*: &nbsp;🎉🎉 我们发布了 **UniGenRec**：统一生成式推荐工具箱 [代码 ![code](https://img.shields.io/github/stars/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox?style=social&label=Code+Stars)](https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox)
 - *2026.02*: &nbsp;🎉🎉 一篇关于 Positive Learning Benchmark 的论文被 ICLR 2026 接收，祝贺 Haiyang Zhang 博士和 Qiuyi。
 - *2026.01*: &nbsp;🎉🎉 两篇关于生成式推荐系统的论文被 AAAI 2026 接收，祝贺 Peiyu 和 Leiqi。
