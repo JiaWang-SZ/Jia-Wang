@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper about Mitigating Gradient Pathology in PINNs was accepted by ICML 2026, congratulations to Yichen Luo.
 - *2026.02*: &nbsp;🎉🎉 We release **UniGenRec**: A Unified Generative Recommendation Toolbox [Code ![code](https://img.shields.io/github/stars/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox?style=social&label=Code+Stars)](https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox)
 - *2026.02*: &nbsp;🎉🎉 One paper about Positive Learning Benchmark was accepted by ICLR 2026, congratulations to Dr. Haiyang Zhang and Qiuyi.
 - *2026.01*: &nbsp;🎉🎉 Two paper about Generative Recommendation Systems was accepted by AAAI 2026, congratulations to Peiyu and Leiqi.
