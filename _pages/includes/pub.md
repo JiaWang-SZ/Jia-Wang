@@ -2,6 +2,23 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/publication/ICML-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Pu-Bench: A Unified Benchmark for Rigorous and Reproducible PU-Learning**
+
+Yichen Luo, Peiyu Zhu, Dongxiao Hu, *Jia Wang*, Tailin Wu, Dapeng Lan, Yu Liu, Zhibo Pang &#x2709;
+
+[Paper](https://openreview.net/pdf?id=Fisw2kc7EY) 
+
+-To address "gradient pathology" in PINNs caused by conflicting gradients between PDE residuals and boundary constraints, this paper proposes Constraint-Aligned loss with Manifold Lifting (CAML). By reformulating zeroth-order terms into aligned constraints and introducing a delay factor to bypass high-curvature regions, CAML effectively mitigates gradient conflicts. Experiments demonstrate that CAML significantly enhances numerical stability and optimization efficiency, particularly for complex PDEs with composite boundary conditions.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/publication/ICRL-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
