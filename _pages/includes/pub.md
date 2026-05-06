@@ -3,6 +3,22 @@
 \* : co-first author, &#x2709; : corresponding author
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/publication/Agent-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Psychologically Grounded User Simulation for Recommender Systems**
+
+Ongoing Project;
+
+[Code ![code](https://img.shields.io/github/stars/franz-chang/Web_simulation?style=social&label=Code+Stars)](https://github.com/franz-chang/Web_simulation)
+
+- PsyBer-Agent is a psychology-driven user simulator designed for the reliable pre-deployment evaluation of recommender systems. Unlike traditional LLM-based simulators that merely imitate surface behaviors, PsyBer-Agent utilizes a "Psy-Engine" to model evolving latent states, including exposure, fatigue, and affect. It calibrates these dynamics against real-world interaction logs using Gromov-Wasserstein optimal transport, enabling high-fidelity simulation without fine-tuning the backbone LLM. Supported by the new WebSim platform and PsyBer Benchmark, evaluations across movie and e-commerce domains show that PsyBer-Agent significantly outperforms prompt-only models in behavioral realism, robustness, and interpretability.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/publication/ICML-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -12,7 +28,7 @@ Yichen Luo, Peiyu Zhu, Dongxiao Hu, *Jia Wang*, Tailin Wu, Dapeng Lan, Yu Liu, Z
 
 [Paper](https://openreview.net/pdf?id=Fisw2kc7EY) 
 
--To address "gradient pathology" in PINNs caused by conflicting gradients between PDE residuals and boundary constraints, this paper proposes Constraint-Aligned loss with Manifold Lifting (CAML). By reformulating zeroth-order terms into aligned constraints and introducing a delay factor to bypass high-curvature regions, CAML effectively mitigates gradient conflicts. Experiments demonstrate that CAML significantly enhances numerical stability and optimization efficiency, particularly for complex PDEs with composite boundary conditions.
+- To address "gradient pathology" in PINNs caused by conflicting gradients between PDE residuals and boundary constraints, this paper proposes Constraint-Aligned loss with Manifold Lifting (CAML). By reformulating zeroth-order terms into aligned constraints and introducing a delay factor to bypass high-curvature regions, CAML effectively mitigates gradient conflicts. Experiments demonstrate that CAML significantly enhances numerical stability and optimization efficiency, particularly for complex PDEs with composite boundary conditions.
 </div>
 </div>
 
@@ -28,7 +44,7 @@ Qiuyi Chen\*, Haiyang Zhang, Leqi Zhang, Changchun Li, **Jia Wang**, Wei Wang
 
 [Paper](https://openreview.net/pdf?id=tb8DabMbMq) [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/XiXiphus/PU-Bench)
 
--This paper introduces PU-Bench, the first open-source unified benchmarking platform for Positive-Unlabeled (PU) learning, designed to provide a rigorous, systematic, and reproducible evaluation framework through standardized data generation, algorithm integration, and assessment protocols.
+- This paper introduces PU-Bench, the first open-source unified benchmarking platform for Positive-Unlabeled (PU) learning, designed to provide a rigorous, systematic, and reproducible evaluation framework through standardized data generation, algorithm integration, and assessment protocols.
 </div>
 </div>
 
